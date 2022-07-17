@@ -1,0 +1,25 @@
+{
+  "name": "thelounge-theme-purplenight2",
+  "version": "1.0.0",
+  "description": "An updated lovely dark purple theme for The Lounge",
+  "main": "package.json",
+  "license": "BSD-2-Clause",
+  "homepage": "https://github.com/ablakely/thelounge-theme-purplenight2",
+  "thelounge": {
+    "css": "purplenight2.css",
+    "name": "Purple Night 2",
+    "type": "theme"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ablakely/thelounge-theme-purplenight2.git"
+  },
+  "keywords": [
+    "thelounge",
+    "thelounge-theme"
+  ],
+  "bugs": {
+    "url": "https://github.com/ablakely/thelounge-theme-purplenight2/issues"
+  },
+  "author": "Aaron Blakely"
+}
