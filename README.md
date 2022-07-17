@@ -7,5 +7,5 @@
 Install the theme with:
 
 ```
-thelounge install thelounge-theme-purplenight
+thelounge install thelounge-theme-purplenight2
 ```
